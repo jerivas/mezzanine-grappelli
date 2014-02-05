@@ -38,7 +38,6 @@ Still in your ``settings.py`` file, adapt the value of
     PACKAGE_NAME_FILEBROWSER = "filebrowser"
     PACKAGE_NAME_GRAPPELLI = "grappelli"
 
-
 Add Grappelli URLs to your ``urls.py`` file::
 
     urlpatterns += patterns("",
