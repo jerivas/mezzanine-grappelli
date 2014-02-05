@@ -25,7 +25,7 @@ Grappelli and Filebrowser as well)::
     pip install mezzanine-grappelli
 
 In your ``settings.py`` file, add mezzanine_grappelli to your ``INSTALLED_APPS``
-(make sure they appear before any mezzanine app)::
+(make sure it appears before any mezzanine app)::
 
     INSTALLED_APPS = (
         "mezzanine_grappelli",
