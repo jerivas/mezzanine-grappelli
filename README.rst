@@ -47,6 +47,10 @@ Add Grappelli URLs to your ``urls.py`` file::
         ...
     )
 
+You can now uninstall grappelli-safe and filebrowser-safe if you want::
+
+    pip uninstall filebrowser-safe grappelli-safe
+
 You're done!
 
 Rough edges
